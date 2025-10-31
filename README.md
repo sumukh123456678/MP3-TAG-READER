@@ -50,10 +50,19 @@ This project reads those tags directly using file handling in C and prints them 
            MP3 TAG READER
 ----------------------------------------
 Title   : Shape of You
+
+-----------------------------------------
 Artist  : Ed Sheeran
+
+-----------------------------------------
 Album   : Divide
+
+-----------------------------------------
 Year    : 2017
+
+-----------------------------------------
 Genre   : Pop
+
 ----------------------------------------
 
 
